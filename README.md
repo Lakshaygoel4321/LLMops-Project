@@ -102,7 +102,7 @@ python app.py
 
 ## 📸 Screenshots
 
-![Chatbot UI Screenshot](LLMops-Project/Screenshot 2025-07-22 132259.png)
+![Chatbot UI](assets/ui_screenshot.png)
 
 ---
 
