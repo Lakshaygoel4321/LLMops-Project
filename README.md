@@ -102,7 +102,7 @@ python app.py
 
 ## 📸 Screenshots
 
-*You can add UI screenshots here.*
+*![Chatbot UI Screenshot](Screenshot 2025-07-22 132259.png)*
 
 ---
 
